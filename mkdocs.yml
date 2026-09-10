@@ -234,10 +234,16 @@ nav:
   - "Filament Tolerance Calibration": calibration/tolerance_calib.md
   - VFA: calibration/vfa_calib.md
   - "Max Volumetric Speed (FlowRate) Calibration": calibration/volumetric_speed_calib.md
+- "Command Line Interface":
+  - "CLI Actions": cli/cli_actions.md
+  - "CLI Mode": cli/cli_mode.md
+  - "CLI Transform": cli/cli_transform.md
+  - "CLI Misc": cli/cli_misc.md
 - "General Settings":
   - "Import and Export": general_settings/import_export.md
   - "Keyboard Shortcuts": general_settings/keyboard_shortcuts.md
   - "Option Modes": general_settings/option_mode.md
+  - "Option Types": general_settings/option_type.md
   - "Transfer or Discard Changes popup dialog": general_settings/transfer_discard_changes.md
   - "Troubleshoot Center": general_settings/troubleshoot_center.md
 - "User Profiles":
@@ -266,6 +272,7 @@ nav:
     - "Build on Windows": developer_reference/how_to_build/how_to_build_windows.md
     - "Build on macOS": developer_reference/how_to_build/how_to_build_macos.md
     - "Build on Linux": developer_reference/how_to_build/how_to_build_linux.md
+    - "Compiler Caching": developer_reference/how_to_build/compiler_caching.md
   - "How to Test": developer_reference/how_to_test.md
   - "Application Structure Overview": developer_reference/plater_sidebar_tab_combobox.md
   - "Preset and Bundle": developer_reference/preset_and_bundle.md
