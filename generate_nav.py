@@ -33,6 +33,7 @@ DISPLAY_NAME_OVERRIDES = {
     # "print_settings": "Process Settings",
     # "developer_reference": "Developer Section",
     "cli": "Command Line Interface",
+    "publishing_3mf": "Publishing 3MF",
 }
 
 
