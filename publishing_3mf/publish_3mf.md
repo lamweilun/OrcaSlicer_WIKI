@@ -23,3 +23,7 @@ Simply open it just like any 3MF file!
 Your printer setup does not change, and the filament/process settings required to print the model are applied directly on top of your existing settings.
 
 <video src="https://github.com/OrcaSlicer/OrcaSlicer_WIKI/blob/main/images/publish_3mf/publish_3mf_open.webm?raw=true" controls width="720" height="480"></video>
+
+## Video Guide
+
+A Publish 3MF video guide is also available on our YouTube channel - [Guide](https://www.youtube.com/@OfficialOrcaSlicer)
